@@ -1,0 +1,25 @@
+# Breast Cancer Classification ML Pipeline
+# All required packages for running the notebook and Streamlit app
+
+# Data Processing
+numpy>=1.23.5
+pandas>=1.5.3
+scipy>=1.10.1
+
+# Machine Learning
+scikit-learn>=1.2.2
+
+# Visualization
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.20.0
+
+# Web Deployment
+streamlit>=1.25.0
+
+# Optional but recommended
+jupyter-contrib-nbextensions>=0.7.0
+ipywidgets>=8.0.0
